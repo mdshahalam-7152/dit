@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 90%;
+    margin: auto; 
+}
+
+.row {
+    width: 100%;
+    float: left;
+}
+
+
+ header {
+    background-color: purple;
+    
+}
+.logo-part {
+    width: 50%;
+    float: left;
+
+}
+.menu-part{
+    width: 50%;
+    float: left;
+
+}
+#service{
+    background: aqua;
+   
+}
+
+.service-box{
+    width: 25%;
+    float: left;
+}
+
+.col-1 {
+    width: 33.33%;
+    float: left;
+
+}
+.col-2{
+    width: 33.33%;
+    float: left;
+
+}
+.col-3{
+    width: 33.33%;
+    float: left;
+
+}
